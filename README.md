@@ -1,4 +1,4 @@
 # Programming
-this is my first Project
+This is my first Project
 <br>
-Auther - Dharmpreet singh
+Auther - <h1>Dharmpreet singh</h1>
